@@ -1,1 +1,1 @@
-# Proyecto-1---Data-minina
+# Proyecto-1---Data-mining
